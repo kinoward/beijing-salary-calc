@@ -1,5 +1,7 @@
 # 北京薪资个税计算器 (2020-2026)
 
+> Powered by **Google Antigravity** | 完全由 Google Antigravity 生成
+
 一个专业且详尽的北京地区薪资个税计算器，基于 Vue 3 + Vite 开发。它不仅能计算个人税后所得，还能帮助你了解企业的用工成本。
 
 ## 🌟 项目亮点
